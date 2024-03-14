@@ -1,0 +1,147 @@
+body{
+    background-color: aqua;
+  }
+  
+  ul{
+    border: 6px solid red;
+    background-image: repeating-conic-gradient(red 10%, green,yellow 20%);
+    outline: 4px solid green;
+    
+    outline-offset: 2px;
+    margin: 10px;
+    border-radius: 10px 25px;
+    
+    font-size: 1.6em;
+    font-style: italic;
+    padding-bottom: 5px;
+  }
+   a{
+    padding: 1px 55px ; 
+    color: rgb(9, 9, 9);
+  }
+  input{
+    border: 3px solid  black;
+    border-radius: 10px 15px;
+    color: rgb(5, 17, 247);
+  }
+  button{
+    border: 3px solid ;
+    margin-left: 2px;
+    border-radius: 10px 15px;
+  }
+  
+  
+  .marque{
+    border: 4px solid black;
+    height: 450px;
+    margin: 8px;
+    border-radius: 10px 20px;
+    text-align: center;
+    font-size: 2em;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  
+  
+  
+  .boxes{
+    display: flex;
+  margin-left: 62px;
+  text-align: center;
+  font-size: 1.3em;
+  }
+  .box{
+    display: flex;
+  margin-left: 200px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 1.3em;
+  }
+  .boxe{
+    display: flex;
+  margin-left: 300px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 1.3em;
+  margin-bottom: 20px;
+  }
+  
+  
+  
+  .box1{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 5px 15px ;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box2{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 30px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box3{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 30px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box4{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 30px;  
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  
+  
+  
+  .box5{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;  
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box6{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box7{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  
+  
+  
+  .box8{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  .box9{
+    border: 2px solid black;
+    height: 330px;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 10px 20px;
+    box-shadow: 10px 10px 10px rgb(48, 51, 52);
+  }
+  
