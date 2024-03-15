@@ -1,10 +1,10 @@
 import React from 'react'
-import Productdeatils from '../../Component/Product/Productdeatils'
+import ProductDetails from '../../Component/Product/Productdeatils'
 
-const  Productdeatilspage= () => {
+const  ProductDetailsPage= () => {
   return (
-    <div><Productdeatils/></div>
+    <div><ProductDetails/></div>
   )
 }
 
-export default Productdeatilspage
+export default ProductDetailsPage
